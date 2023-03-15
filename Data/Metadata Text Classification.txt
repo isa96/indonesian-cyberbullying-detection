@@ -1,0 +1,17 @@
+Data description:
+
+- bully: Whether the tweet is classified as cyberbully (yes) or not
+
+tweet: The content of the tweet.
+
+- individual: Whether the tweet is a cyberbully targeted toward certain individual (0 = no, 1 = yes)
+
+- group: Whether the tweet is a cyberbully targeted toward certain group of people (0 = no, 1 = yes)
+
+- gender: Whether the tweet is a cyberbully based on gender or cursing someone using words that are degrading to gender (0 = no, 1 = yes)
+
+- physical: Whether the tweet is a cyberbully based on physical deficiencies/differences or disability (0 = no, 1 = yes)
+
+- race: Whether the tweet is a cyberbully based on a human race or ethnicity (0 = no, 1 = yes)
+
+- religion: Whether the tweet is a cyberbully based on a religion, religious organization, or a particular creed (0 = no, 1 = yes)
